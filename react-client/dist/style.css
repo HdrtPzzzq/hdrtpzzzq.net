@@ -1,10 +1,19 @@
 body {
+  margin-top: 4em;
+  background-color: #2a2c2e ;
+}
+.pseudo {
   font-family:'Cousine', monospace;
   font-size: 58px;
   color: #3CB371;
-  background-color: #2a2c2e ;
   display: flex;
   justify-content: center;
   align-items: center;
-  }
+}
+.avatar {
+  width: 10%;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
