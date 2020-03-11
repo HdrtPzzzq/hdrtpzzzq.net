@@ -1,17 +1,22 @@
 # HdrtPzzzq.net
-
 My personnal website.
 
-## Dependencies
+## Requirements
+ - - [Node](https://nodejs.org/)
 
-From scratch, using node.
+## Dependencies
+Either the package manager npm or yarn is required to install the dependencies.
+(Refer to package.json for more specification)
+Here npm is used.
+
 ```
 npm install
 ```
 
-## Running
+## Local running
 
-When set up.
+When set up, execute the said commands.
+(The following scripts can be found in the package.json)
 
 ```
 npm run react-dev
@@ -19,7 +24,6 @@ npm run server-dev
 ```
 
 In browser.
-
 ```
 http://localhost:8080/
 ```
