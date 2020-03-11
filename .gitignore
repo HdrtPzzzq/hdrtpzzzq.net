@@ -5,6 +5,7 @@ logs
 # Compiled directory and files
 build/
 bundle.js
+package-lock.json
 
 # Dependency directories
 node_modules/

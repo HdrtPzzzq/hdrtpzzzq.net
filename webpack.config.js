@@ -26,6 +26,10 @@ module.exports = {
         loader: 'file-loader'
       },
       {
+        test: /\.svg$/,
+        loader: 'svg-inline-loader'
+      },
+      {
         test : /\.jsx?/,
         include : SRC_DIR,
         loader : 'babel-loader',

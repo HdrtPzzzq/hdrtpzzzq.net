@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/HdrtPzzzq/hdrtpzzzq.net.git"
   },
-  "author": "",
+  "author": "HdrtPzzzq",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/HdrtPzzzq/hdrtpzzzq.net/issues"
@@ -34,6 +34,7 @@
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
+    "svg-inline-loader": "^0.8.2",
     "webpack-cli": "^3.3.11"
   }
 }
