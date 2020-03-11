@@ -7,10 +7,13 @@ My personnal website.
 ## Dependencies
 Either the package manager npm or yarn is required to install the dependencies.
 (Refer to package.json for more specification)
-Here npm is used.
 
 ```
 npm install
+```
+or
+```
+yarn install
 ```
 
 ## Local running
@@ -21,6 +24,11 @@ When set up, execute the said commands.
 ```
 npm run react-dev
 npm run server-dev
+```
+or
+```
+yarn run react-dev
+yarn run server-dev
 ```
 
 In browser.
