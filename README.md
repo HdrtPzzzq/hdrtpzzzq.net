@@ -2,7 +2,7 @@
 My personnal website.
 
 ## Requirements
- - - [Node](https://nodejs.org/)
+ - [Node](https://nodejs.org/)
 
 ## Dependencies
 Either the package manager npm or yarn is required to install the dependencies.
